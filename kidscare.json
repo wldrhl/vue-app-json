@@ -1,0 +1,29 @@
+{
+    "articles":[
+       {
+          "title":"1. Feeding",
+          "description":"Everyone needs to eat! Learn how to fill your pets bowl or what type of food they like to eat!",
+          "urlToImage":"feeding.jpg"
+       },
+       {
+          "title":"2. Walking",
+          "description":"Make sure your pet gets to move around and has space!",
+          "urlToImage":"walking.jpg"
+       },
+       {
+          "title":"3. Cleaning",
+          "description":"Clean up duty is important! Clean your pets mess. Make sure you clean their hands when you're done!",
+          "urlToImage":"cleaning.png"
+       },
+       {
+          "title":"4. Grooming",
+          "description":"Grooming! Learn how to wash your dog and brush them to make them as clean as you!",
+          "urlToImage":"grooming.png"
+       },
+       {
+          "title":"5. Playing!",
+          "description":"The Fun part! Make sure you and your pet are having fun and spend time with them but not too much!",
+          "urlToImage":"grooming.png"
+       }
+    ]
+ }
